@@ -1,0 +1,6 @@
+.emojionearea {
+    border-radius: 0.33rem;
+    padding: calc(0.667em + 2px);
+    font-size: 1em;
+    border: 1px solid #949494;
+}
